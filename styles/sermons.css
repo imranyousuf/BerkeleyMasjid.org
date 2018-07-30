@@ -271,7 +271,7 @@ section
 }
 .header.scrolled
 {
-	top: -40px;
+	top: -10px;
 }
 
 /*********************************
@@ -374,7 +374,7 @@ section
 }
 .header.scrolled .header_content
 {
-	height: 80px;
+	height: 100px;
 }
 
 /*********************************
