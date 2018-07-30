@@ -110,7 +110,7 @@
 	{
 		font-size: 48px;
 	}
-	.blog_post_tags
+	.donation_post_tags
 	{
 		margin-top: 15px;
 	}
@@ -218,16 +218,16 @@
 	{
 		font-size: 14px;
 	}
-	.blog_post_text p,
+	.donation_post_text p,
 	.comment_text p
 	{
 		font-size: 14px;
 	}
-	.blog_post_title
+	.donation_post_title
 	{
 		font-size: 22px;
 	}
-	.blog_post_meta ul li a
+	.donation_post_meta ul li a
 	{
 		font-size: 14px;
 	}
